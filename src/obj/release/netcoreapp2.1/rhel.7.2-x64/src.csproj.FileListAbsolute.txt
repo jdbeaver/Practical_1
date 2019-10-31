@@ -1,0 +1,16 @@
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\bin\release\netcoreapp2.1\rhel.7.2-x64\src.deps.json
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\bin\release\netcoreapp2.1\rhel.7.2-x64\src.runtimeconfig.json
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\bin\release\netcoreapp2.1\rhel.7.2-x64\src.runtimeconfig.dev.json
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\bin\release\netcoreapp2.1\rhel.7.2-x64\src.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\bin\release\netcoreapp2.1\rhel.7.2-x64\src.pdb
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\bin\release\netcoreapp2.1\rhel.7.2-x64\src.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.csprojAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.RazorAssemblyInfo.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.RazorAssemblyInfo.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.AssemblyInfoInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.AssemblyInfo.cs
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.RazorTargetAssemblyInfo.cache
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.dll
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.xml
+C:\Users\John\Documents\Visual Studio 2017\Projects\Practical_1\src\obj\release\netcoreapp2.1\rhel.7.2-x64\src.pdb
