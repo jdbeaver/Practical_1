@@ -35,7 +35,7 @@ After cloning or pulling the project
 * AWS deployment tools (Amazon.Lambda.AspNetCoreServer, Amazon.Lambda.Tools)
 
 ## ToDo 
-*Fix Swagger issue
-*Demonstrate a Lambda integration request - return customized/filtered data from calling an external ip/domain lookup service
-*With the Swagger sticking point I was unable to proper address complete error responses or address rate limit issues.
+* Fix Swagger issue
+* Demonstrate a Lambda integration request - return customized/filtered data from calling an external ip/domain lookup service
+* With the Swagger sticking point I was unable to proper address complete error responses or address rate limit issues.
 
