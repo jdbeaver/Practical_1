@@ -37,5 +37,5 @@ After cloning or pulling the project
 ## ToDo 
 * Fix Swagger issue
 * Demonstrate a Lambda integration request - return customized/filtered data from calling an external ip/domain lookup service
-* With the Swagger sticking point I was unable to proper address complete error responses or address rate limit issues.
+* With the Swagger sticking point I was unable to properly address complete error responses or address rate limit issues.
 
